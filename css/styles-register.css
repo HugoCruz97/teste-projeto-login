@@ -87,6 +87,11 @@ input[type="submit"]{
     cursor: pointer;
 }
 
+.volta {
+    text-align: right;
+    font-weight: bold;
+}
+
 /* erros */
 
 .erro-validation {
